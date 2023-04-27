@@ -3,7 +3,7 @@
 
 
 - 🔭 looking for a job
-- 🌱 I’m currently learning React, Node and C#
+- 🌱 I’m currently learning React, Node and Java
 - 📫 How to reach me: kristoferkrindges@gmail.com
 
 " Imagination is more important than knowledge, Albert Einstein."
