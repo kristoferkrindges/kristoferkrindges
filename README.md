@@ -27,7 +27,7 @@
   <img align="center" alt="Kris-DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="Kris-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Kris-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Kris-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202208/678875_TY1muzHe.png">
+<!--   <img align="right" alt="Kris-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202208/678875_TY1muzHe.png"> -->
 </div>
   
   ##
