@@ -2,7 +2,7 @@
 
 
 
-- 🔭 looking for a job
+- 🔭 Freelancer now
 - 🌱 I’m currently learning React, Node and Java
 - 📫 How to reach me: kristoferkrindges@gmail.com
 
