@@ -3,7 +3,7 @@
 
 
 - 🔭 Freelancer and Machine learning at Compass UOL
-- 🌱 I’m currently learning React, Node and Java
+- 🌱 I’m currently learning TypeScript, Lua and Java
 - 📫 How to reach me: kristoferkrindges@gmail.com
 
 " Imagination is more important than knowledge, Albert Einstein."
