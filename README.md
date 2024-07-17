@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Freelancer now
+- 🔭 Freelancer and Machine learning at Compass UOL
 - 🌱 I’m currently learning React, Node and Java
 - 📫 How to reach me: kristoferkrindges@gmail.com
 
